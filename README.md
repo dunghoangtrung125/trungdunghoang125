@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### I'm Hoang Trung Dung, a student from VNU University of Engineering and Technology (UET) - a member of Vietnam National University of Hanoi (VNU)
+
+<img src="https://komarev.com/ghpvc/?username=trungdunghoang125&style=flat-square&color=blue" alt=""/>
