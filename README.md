@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### I'm Hoang Trung Dung, a student from VNU University of Engineering and Technology (UET) - a member of Vietnam National University of Hanoi (VNU)
-
+### 🔡  I'm Hoang Trung Dung
+### 👨‍🎓  I am a student from VNU University of Engineering and Technology (UET)
+### 🔭  I’m currently working at VcCorp as a Android Developer
+### 🌱  I’m currently learning Kotlin and modern android development (MAD)
+### ⚡ Fun fact: I have a lifetime crush 😐
+### 📫  You can reach me via email trungdunghoang125@gmail.com
+<br>
 <img src="https://komarev.com/ghpvc/?username=trungdunghoang125&style=flat-square&color=blue" alt=""/>
