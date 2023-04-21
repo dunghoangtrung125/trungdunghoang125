@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### 🔡  I'm Hoang Trung Dung
 ### 👨‍🎓  I am a student from VNU University of Engineering and Technology (UET)
-### 🔭  I’m currently working at VcCorp as a Android Developer
+### 🔭  I’m currently working at VCCorp as a Android Developer
 ### 🌱  I’m currently interested in learning Kotlin and modern android development (MAD)
 ### ⚡ Fact: I have a lifetime crush but it isn't a happy ending story 😐
 ### 📫  You can reach me via email trungdunghoang125@gmail.com
